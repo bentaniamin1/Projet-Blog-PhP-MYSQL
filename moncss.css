@@ -1,0 +1,54 @@
+body{
+    background:url('fond.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-style: "roboto";
+    height:100%;
+    
+}
+
+.login h1 {
+    color:
+}
+.login {
+    max-width:380px;
+    margin: auto;
+    margin-top:80px;
+    background-color: rgba(0,0,1,0.8);
+    text-align:center;
+    border-radius: 20px;
+    padding:40px;
+    box-sizing:border-box;
+    color: #f1f1f1;
+}
+
+input{
+    width:100%;
+    margin: 10px 0;
+    outline:none;
+    padding:10px 6px;
+    background-color: transparent;
+    color: #f1f1f1;
+    font-weight:bold;
+    font-size:19px;
+    border: none;
+    border-bottom: 2px solid #f1f1f1;
+
+}
+input[type=submit]{
+    width:80%;
+    border-radius:10px;
+    background-color:black;
+    cursor:pointer;
+}
+
+a{
+    text-decoration: none;
+    color: #c011ba;
+    font-size: 15px;
+    font-weight: 16px;
+    
+}
+
+
+
